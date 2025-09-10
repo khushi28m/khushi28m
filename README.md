@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **LLMs, RAG, FastAPI**  
 - 💬 Ask me about **AI, NLP, GenAI, Flask, React**  
 - 📫 How to reach me **khushimundhada28@gmail.com**  
-- 📄 Know more about my experiences [My Resume](https://github.com/khushi28m)  
+- 📄 Know more about my experiences [My Resume](https://drive.google.com/file/d/1mEhnPtvtl4S0wm_heVifjLoKhiegnEaw/view?usp=drivesdk)
 - ⚡ Fun fact **I can code by day and dance by night**  
 
 <h3 align="left">Connect with me:</h3>
